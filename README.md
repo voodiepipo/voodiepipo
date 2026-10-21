@@ -12,7 +12,7 @@
  
 ## Hello.
  
-I'm a **Software Engineering** student at **Mahidol University** (ICT International Program, graduating 2028) based in Bangkok, Thailand.
+I'm a **Software Engineering** student at **Mahidol University** (ICT International Program, graduating 2027) based in Bangkok, Thailand.
  
 I enjoy turning complex problems into clean, fast, and thoughtfully designed products, whether that's a restaurant platform, a real-time monitoring dashboard, or an algorithmic trading bot.
  
