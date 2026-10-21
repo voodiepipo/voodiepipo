@@ -1,0 +1,58 @@
+<div align="center">
+
+#  Hello, I'm Vootichote Chammunkong.
+
+**Software Engineer | Algorithmic Trading Enthusiast | Tech Explorer**
+
+*"Simplicity is the ultimate sophistication."*
+
+<br/>
+
+### **👨🏻‍💻 About Me**
+
+I am a passionate Software Engineering student with a strong interest in the intersection of technology and finance. I thrive on building efficient systems, solving complex problems, and creating clean, impactful code.
+
+Currently studying: **Information and Communication Technology**  
+Recently finished my internship as an **IT / Software Engineering Intern** at **Globlex Securities**.  
+I’m currently learning deeper into **Quantitative Finance** and **System Architecture**.  
+Let's talk about: **Python, Algorithmic Trading, and sleek UI/UX.**
+
+<br/>
+
+### **💻 Tech Stack**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-141515?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Streamlit-141515?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Pandas-141515?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/JavaScript-141515?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-141515?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-141515?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+<br/>
+
+### **Recent Experience**
+
+**IT / Software Engineering Intern @ Globlex Securities Co., Ltd.**  
+*Developed an Automated Algorithmic Trading Bot for the Thai stock market.*
+
+* **Core System:** Built with Python, integrating Settrade Open API (`settrade_v2`) and EzyQuant.
+* **Algorithm Design:** Engineered Time-Weighted Average Price (TWAP) execution and parallel order systems.
+* **Reliability:** Implemented a JSON safe-state recovery mechanism to ensure data stability.
+* **Visualization:** Designed a comprehensive Portfolio Dashboard using Streamlit.
+
+<br/>
+
+### * Let's Connect**
+
+<p align="center">
+  <a href="mailto:Vootichote.p@gmail.com">
+    <img src="https://img.shields.io/badge/Email-141515?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/voodiepipo">
+    <img src="https://img.shields.io/badge/LinkedIn-141515?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+</div>
