@@ -1,58 +1,86 @@
-<div align="center">
-
-#  Hello, I'm Vootichote Chammunkong.
-
-**Software Engineer | Algorithmic Trading Enthusiast | Tech Explorer**
-
-*"Simplicity is the ultimate sophistication."*
-
-<br/>
-
-### **👨🏻‍💻 About Me**
-
-I am a passionate Software Engineering student with a strong interest in the intersection of technology and finance. I thrive on building efficient systems, solving complex problems, and creating clean, impactful code.
-
-Currently studying: **Information and Communication Technology**  
-Recently finished my internship as an **IT / Software Engineering Intern** at **Globlex Securities**.  
-I’m currently learning deeper into **Quantitative Finance** and **System Architecture**.  
-Let's talk about: **Python, Algorithmic Trading, and sleek UI/UX.**
-
-<br/>
-
-### **💻 Tech Stack**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-141515?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Streamlit-141515?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Pandas-141515?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/JavaScript-141515?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-141515?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-141515?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-<br/>
-
-### **Recent Experience**
-
-**IT / Software Engineering Intern @ Globlex Securities Co., Ltd.**  
-*Developed an Automated Algorithmic Trading Bot for the Thai stock market.*
-
-* **Core System:** Built with Python, integrating Settrade Open API (`settrade_v2`) and EzyQuant.
-* **Algorithm Design:** Engineered Time-Weighted Average Price (TWAP) execution and parallel order systems.
-* **Reliability:** Implemented a JSON safe-state recovery mechanism to ensure data stability.
-* **Visualization:** Designed a comprehensive Portfolio Dashboard using Streamlit.
-
-<br/>
-
-### * Let's Connect**
-
-<p align="center">
-  <a href="mailto:Vootichote.p@gmail.com">
-    <img src="https://img.shields.io/badge/Email-141515?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/voodiepipo">
-    <img src="https://img.shields.io/badge/LinkedIn-141515?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-</div>
+# Vootichote Chammunkong
+ 
+### Software Engineer · Quantitative Developer · AI Tinkerer
+ 
+*Building software that feels effortless.*
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://voodiepipo.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1d1d1f?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/voodiepipo)
+[![Email](https://img.shields.io/badge/Email-1d1d1f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Vootichote.p@gmail.com)
+ 
+---
+ 
+## Hello.
+ 
+I'm a **Software Engineering** student at **Mahidol University** (ICT International Program, graduating 2028) based in Bangkok, Thailand.
+ 
+I enjoy turning complex problems into clean, fast, and thoughtfully designed products, whether that's a restaurant platform, a real-time monitoring dashboard, or an algorithmic trading bot.
+ 
+| Education | Latest Role | Location |
+| :--- | :--- | :--- |
+| B.Sc. ICT (International Program), Mahidol University, 2028 | Quantitative Developer Intern, Globlex Securities | Bangkok, Thailand |
+ 
+---
+ 
+## Experience
+ 
+### Software Engineering / Quantitative Developer Intern
+**Globlex Securities Co., Ltd.** · *July 2026 – August 2026*
+ 
+- Engineered and deployed automated **API trading bots** in Python, implementing **TWAP** algorithms to minimize market impact.
+- Architected **real-time data pipelines** to aggregate portfolio data and improve financial reporting accuracy.
+- Optimized trading infrastructure through rigorous testing and debugging, **reducing latency** and ensuring high availability.
+### Teacher Assistant, English (DST Program)
+**Faculty of ICT, Mahidol University** · *July 2025 – August 2025*
+ 
+- Provided feedback on assignments and clarified lesson content.
+- Facilitated classroom activities and discussions to enhance student engagement.
+- Co-designed lesson content and contributed to curriculum development.
+---
+ 
+## Selected Work
+ 
+### MHUMSAP: Full-Stack Restaurant Platform
+Responsive web app designed in Figma, with secure RESTful APIs for authentication and routing, backed by an optimized MySQL schema.
+ 
+`Figma` `JavaScript` `Node.js` `Express.js` `MySQL`
+ 
+### WIFI-CSI: Human Activity Recognition
+Dual-Stream CNN that classifies **9 human activities** from Wi-Fi CSI signals. Processes a **43 GB** dataset on limited RAM, accelerated with Apple Silicon GPU (MPS).
+ 
+`Python` `PyTorch` `Pandas` `Scikit-learn`
+ 
+### AI Network Monitoring & Analytics System
+Real-time dashboard for Wi-Fi performance with ping, bandwidth, and connection stability diagnostics, plus AI-based anomaly detection over WebSocket.
+ 
+`Python` `React` `Node.js` `WebSocket` `SQLite`
+ 
+**[View full portfolio →](https://voodiepipo.github.io/Portfolio/)**
+ 
+---
+ 
+## Toolbox
+ 
+| | |
+| :--- | :--- |
+| **Languages** | Java · Python · TypeScript · C · C++ · C# · JavaScript |
+| **Frontend & UI/UX** | HTML · CSS · React · Figma |
+| **Backend & APIs** | Node.js · Express.js · Spring Boot · WebSocket |
+| **Data & AI** | PyTorch · Pandas · Scikit-learn |
+| **Databases** | MySQL · SQLite |
+| **Tools** | Git · GitHub · Godot Engine · Cisco Networking |
+ 
+![Skills](https://skillicons.dev/icons?i=java,py,ts,js,c,cpp,cs,html,css,react,nodejs,express,spring,pytorch,sklearn,pandas,mysql,sqlite,figma,git,github,godot&theme=dark&perline=11)
+ 
+---
+ 
+## By the Numbers
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=voodiepipo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f5f5f7&text_color=86868b&icon_color=f5f5f7&ring_color=f5f5f7&border_radius=16)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voodiepipo&layout=compact&hide_border=true&bg_color=0d1117&title_color=f5f5f7&text_color=86868b&border_radius=16)
+ 
+---
+ 
+## Let's build something great.
+ 
+[Email](mailto:Vootichote.p@gmail.com) · [LinkedIn](https://linkedin.com/in/voodiepipo) · [Portfolio](https://voodiepipo.github.io/Portfolio/)
